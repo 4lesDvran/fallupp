@@ -21,5 +21,4 @@ plt.pie(slic, labels = field, colors=colour,
 plt.legend(title = 'Idiomas', labels = lang, loc="best")
 plt.title('DIAGRAMA #3: DISTRIBUCIÓN POR CAMPO DISCIPLINARIO', color = "blue", fontweight = 'bold')
 
-# showing the plot
 plt.show()
